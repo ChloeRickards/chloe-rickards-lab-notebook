@@ -1,0 +1,15 @@
+output_dir: "."
+navbar:
+    title: "Chloe Rickards - Lab Notebook"
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "About Me"
+        href: about.html
+      - text: "Schistosomiasis"
+        href: schisto.html
+      - text: "COVID-19"
+        href: covid19.html
+    right:
+      - text: "Contact Me"
+        href: contact.html
