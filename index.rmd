@@ -38,10 +38,10 @@ My current projects are:
 
 <!-- # twitter, instagram, other links -->
 
-How to update this site: 
-make edits
-Knit to preview in Rmd
-rmarkdown::render_site() in Console to upload changes
-to push up to github: git add * in Terminal
-git commit -m "insert description here"
-git push origin master
+<!-- How to update this site:  -->
+<!-- make edits -->
+<!-- Knit to preview in Rmd -->
+<!-- rmarkdown::render_site() in Console to upload changes -->
+<!-- to push up to github: git add * in Terminal -->
+<!-- git commit -m "insert description here" -->
+<!-- git push origin master -->
