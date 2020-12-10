@@ -8,29 +8,31 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+<!-- # Stuff I want to have: -->
+<!-- # Research Projects - drop-down menu for Schisto, Covid, SNAPP PDEHE -->
+<!-- # Other Projects (podcast, Climbers for Bats, Mental Health Awareness) -->
+<!-- # Resume / CV -->
+<!-- # Blog - sometimes my blog post will be like "new updates on COVID page!" -->
+<!-- # Main Page -->
+<!-- # Contact Me - maybe move this to the bottom of the website for each page. I think it would be cool to be able to click on the logos for the things at the bottom - for email, Twitter, Instagram -->
+
+\newline
+\newline
+
 <center>### Chloe Rickards
-<center>### Lab Notebook - UCSC - Kilpatrick Lab
+<center>### University of California Santa Cruz - Kilpatrick Lab
 
 <center>![](images/fancycam_bushface_lowerres.jpg){width=500px}
 
+\newline
 Hello! I am a grad student at the University of California - Santa Cruz studying Ecology and Evolutionary Biology - specifically, disease ecology. I'm interested in how changes to the environment create changes in human diseases. I'm currently working on two projects: studying genetically modified organisms in the snail host for the parasitic disease schistosomiasis, and monitoring the current SARS-COV-2 epidemic
+\newline
 
-## R Markdown
+<!-- # link these together -->
+My current projects are: 
+* Age-Stratified IFR Estimates for SARS-CoV-2
+* Schistosomiasis and CRISPR/Cas9 Gene Drives
+* Science Writing and Education
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+<!-- # twitter, instagram, other links -->

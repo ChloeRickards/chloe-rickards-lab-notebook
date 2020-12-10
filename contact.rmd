@@ -8,4 +8,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Still constructing this page - come back later!
+Twitter: @rickards_chloe
+Instagram: @chloerickards
+Email: cgrickar@ucsc.edu
