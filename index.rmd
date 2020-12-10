@@ -19,11 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \newline
 \newline
+\newline
 
 <center>### Chloe Rickards
 <center>### University of California Santa Cruz - Kilpatrick Lab
 
-<center>![](images/fancycam_bushface_lowerres.jpg){width=500px}
+<center>![](images/fancycam_ssons_lowerres.jpg){width=500px}
 
 \newline
 Hello! I am a grad student at the University of California - Santa Cruz studying Ecology and Evolutionary Biology - specifically, disease ecology. I'm interested in how changes to the environment create changes in human diseases. I'm currently working on two projects: studying genetically modified organisms in the snail host for the parasitic disease schistosomiasis, and monitoring the current SARS-COV-2 epidemic
@@ -36,3 +37,11 @@ My current projects are:
 * Science Writing and Education
 
 <!-- # twitter, instagram, other links -->
+
+How to update this site: 
+make edits
+Knit to preview in Rmd
+rmarkdown::render_site() in Console to upload changes
+to push up to github: git add * in Terminal
+git commit -m "insert description here"
+git push origin master

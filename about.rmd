@@ -9,3 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Still constructing this page - come back later!
+
+## CV
+\newline
+## Publications

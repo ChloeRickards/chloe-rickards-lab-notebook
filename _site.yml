@@ -4,7 +4,7 @@ navbar:
     left:
       - text: "Home"
         href: index.html
-      - text: "CV and Publications"
+      - text: "About Me"
         href: about.html
       - text: "Schistosomiasis"
         href: schisto.html
