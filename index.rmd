@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 <!-- # Stuff I want to have: -->
+<!-- # Teaching -->
+<!-- Link Google Scholar -->
 <!-- # Research Projects - drop-down menu for Schisto, Covid, SNAPP PDEHE -->
 <!-- # Other Projects (podcast, Climbers for Bats, Mental Health Awareness) -->
 <!-- # Resume / CV -->

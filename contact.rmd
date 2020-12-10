@@ -7,7 +7,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+\newline
 Twitter: @rickards_chloe
+\newline
 Instagram: @chloerickards
+\newline
 Email: cgrickar@ucsc.edu

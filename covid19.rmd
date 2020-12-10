@@ -8,45 +8,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Estimating IFRs using New York City data
 
-t_a = Delay from incubation to symptom onset: 6.55 days [Tindale et al.], 3.96 [Du et al.], 5.5 [Lewnard et al.], 6 days [Levin, Cochran & Walsh]
-
-t_b = Delay from symptom onset to antibodies: ~10 days (in 50% of people) [Borremans et al.]
-
-t_c = Delay from symptoms to death: ~13 days [Levin, Cochran & Walsh]
-
-t_d = Delay from death to reported death: 7 days [Levin, Cochran, & Walsh]
-
-t_e = Delay from antibody presentation to reported death: t_c - t_b + t_d = 10 days
-
-Serosurvey midpoint date: April 23
-
-Death date (Serosurvey midpoint date + 10 days): May 3rd
-
-Serosurvey results:
-Extrapolated to fit population of NYC 
-
-"[18, 34)",490200
-"[35, 45)",270400
-"[45, 55)",286700
-"[55, Inf)",459000
-
-Number of deaths on May 3rd:
-
-age_class,UC,no_UC,UC_unknown,Total,date
-"[-Inf, 18)",6,0,0,6,2020-5-3
-"[18, 45)",435,14,89,538,2020-5-3
-"[45, 65)",2557,60,356,2973,2020-5-3
-"[65, 75)",2490,5,801,3296,2020-5-3
-"[75, Inf)",4640,2,1863,6505,2020-5-3
-
-
-IFRs by combining classes:
-"[18, 45)" = (538)/(490200 + 270400) = 0.0007073363 = 0.07%
-"[45, Inf)" = (2973 + 3296 + 6505)/(286700 + 459000) = 0.01713021 = 1.7%
-
-IFRs by extrapolating age/death patterns
+For more information, you can read our paper on medRxiv
+https://www.medrxiv.org/node/107167.external-links.html
 
 ## R Markdown
 
