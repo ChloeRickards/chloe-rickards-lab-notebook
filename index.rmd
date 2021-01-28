@@ -1,7 +1,7 @@
 ---
 output: 
   html_document: 
-    theme: sandstone
+    theme: cosmo
 ---
 
 ```{r setup, include=FALSE}
@@ -12,37 +12,38 @@ knitr::opts_chunk$set(echo = TRUE)
 <!-- # Stuff I want to have: -->
 <!-- # Teaching -->
 <!-- Link Google Scholar -->
+<!-- Research Updates - Lab Notebook -->
 <!-- # Research Projects - drop-down menu for Schisto, Covid, SNAPP PDEHE -->
 <!-- # Other Projects (podcast, Climbers for Bats, Mental Health Awareness) -->
 <!-- # Resume / CV -->
 <!-- # Blog - stuff on Research pages will link to this -->
 <!-- # Main Page -->
+<!-- Resources for Undergrad -->
 <!-- # Contact Me - maybe move this to the bottom of the website for each page. I think it would be cool to be able to click on the logos for the things at the bottom - for email, Twitter, Instagram -->
 
-\newline
-\newline
-\newline
+$$\\[.1in]$$
 
 <center>### Chloe Rickards
-<center>### University of California Santa Cruz - Kilpatrick Lab
+<center>### University of California Santa Cruz
+<center>### [Kilpatrick Lab](https://kilpatrick.eeb.ucsc.edu/)
+
+$$\\$$
 
 <center>![](images/fancycam_ssons_lowerres.jpg){width=500px}
 
-\newline
-Hello! I am a grad student at the University of California - Santa Cruz studying Ecology and Evolutionary Biology - specifically, disease ecology. I'm interested in how changes to the environment create changes in human diseases. I'm currently working on two projects: studying genetically modified organisms in the snail host for the parasitic disease schistosomiasis, and monitoring the current SARS-COV-2 epidemic
-\newline
-\newline
+$$\\$$
+
+<center>## Welcome to my digital lab notebook!
+
+$$\\$$
 
 <!-- # link these together -->
-My current projects are: 
-* Age-Stratified IFR Estimates for SARS-CoV-2
-* Schistosomiasis and CRISPR/Cas9 Gene Drives
-* Science Writing and Education *
+<center>### Recent updates: 
 
+<center> Age-Stratified IFR Estimates for SARS-CoV-2
 \newline
-\newline
+<center> Science Outreach at Vandenberg Air Force Base
 
-Recent Blog Post: Mental Health and Science
 
 <!-- # twitter, instagram, other links in footer -->
 

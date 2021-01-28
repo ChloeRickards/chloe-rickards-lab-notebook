@@ -1,15 +1,12 @@
 output_dir: "."
 navbar:
-    title: "Chloe Rickards - Lab Notebook"
+    title: "Chloe Rickards | Disease Ecology Graduate Student"
     left:
       - text: "Home"
         href: index.html
-      - text: "CV and Publications"
+      - text: "About Me"
         href: about.html
-      - text: "Schistosomiasis"
-        href: schisto.html
-      - text: "COVID-19"
-        href: covid19.html
-    right:
-      - text: "Contact Me"
-        href: contact.html
+      - text: "Lab Notebook"
+        href: labnotebook.html
+      - text: "Outreach"
+        href: outreach.html

@@ -1,0 +1,22 @@
+---
+output: 
+  html_document:
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+$\\$
+
+<center>### Disease Ecology and Viruses at Vandenberg Air Force Base
+
+<center>![](images/vafb_de_talk.jpeg){width=500px}
+
+In a partnership with [STARBASE](https://dodstarbase.org/) , I gave a talk to a small group of middle-school students living on Vandenberg Air Force Base. We followed proper COVID-19 protocol for this talk, which included checking temperatures, socially distancing, wearing masks, and classroom ventilation.
+
+Read more at:
+https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/2477738/starbase-stemazing-and-hands-on/
+
+

@@ -1,15 +1,26 @@
 ---
 output: 
   html_document:
-    theme: sandstone
+    theme: cosmo
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Still constructing this page - come back later!
+<!-- this is pretty good, I just want to align the publications left, dunno how -->
 
-## CV
-\newline
-## Publications
+
+$$\\$$
+
+<center>### Curriculum Vitae
+
+$$\\$$
+
+<center>### Publications
+
+Rickards CG & Kilpatrick AM. Age-Stratified SARS-CoV-2 Infection Fatality Rates in New York City Estimated from Serological Data medRxiv Published 2020 Oct 16. doi: https://doi.org/10.1101/2020.10.16.20214023
+
+Sokolow SH et al. Global Assessment of Schistosomiasis Control Over the Past Century Shows Targeting the Snail Intermediate Host Works Best. PLoS Negl Trop Dis. 2016;10(7):e0004794. Published 2016 Jul 21. doi:10.1371/journal.pntd.0004794
+
+
